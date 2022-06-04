@@ -32,6 +32,6 @@
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_MIT_
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _2022_ _Nick Tse_
